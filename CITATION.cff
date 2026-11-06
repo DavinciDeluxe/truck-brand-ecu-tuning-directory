@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "72 Heavy-Duty 24V Truck ECU Tuning Guides (Volvo Trucks, Scania, MAN, DAF, Mercedes Trucks, Iveco, Renault Trucks, Cummins) — DaVinci Deluxe Cloud Edition Trucks. (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/online-ecu-tuning"
+repository-code: "https://github.com/DavinciDeluxe/truck-brand-ecu-tuning-directory"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
